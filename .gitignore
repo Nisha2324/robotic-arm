@@ -1,0 +1,9 @@
+# SolidWorks temporary files
+~$*
+*.swp
+*.swo
+*.tmp
+
+# Windows temporary files
+Thumbs.db
+Desktop.ini
