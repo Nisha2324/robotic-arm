@@ -2,6 +2,10 @@
 
 A 3-Degree-of-Freedom robotic arm designed using SOLIDWORKS, with CAD modeling of individual components and complete assembly.
 
+## CAD Model
+
+![3-DOF Robotic Arm](robotic-arm-main.png)
+
 ## Project Overview
 
 This project focuses on the CAD design and assembly of a 3-DOF robotic arm. 
